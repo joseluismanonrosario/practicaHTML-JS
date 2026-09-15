@@ -5,3 +5,4 @@ let edad = 2026 - AnoNacimiento;
 let mayorEdad = edad >= 18 ? "Eres mayor de edad." : "Eres menor de edad.";
 let mensaje = `Hola ${nombre} ${apellido}, tienes ${edad} años. ${mayorEdad}`;
 alert(mensaje);
+alert("Gracias por usar nuestro programa. ¡Hasta luego!");
